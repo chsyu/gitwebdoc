@@ -53,7 +53,7 @@ git push -u origin master
 
 ![](imgs/git-code.png)
 
-2）按下之後就會進入設定畫面，往下滑倒GitHub Pages區域，按下select source，把原本的none改選為master branch
+2）按下Settings之後就會進入設定畫面，往下滑倒GitHub Pages區域，按下select source，把原本的none改選為master branch
 ![](imgs/github-page-source.png)
 
 3）選定之後按下save，設定頁面就會重刷一次，再度滑倒GitHub Pages區域，你會發現GitHub已經給你的這個Git網頁程式設定了一個超連結，**這個超連結，就是你要繳交的的二個作業**
