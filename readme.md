@@ -44,7 +44,7 @@ git push -u origin master
 
 ![](imgs/push.png)
 
-4）經過一小段時間之後，你地專案就被push到github。你在github的專案就可以看到網頁程式，**這一頁的url就是作業一，你也就完成第一個作業**。
+4）經過一小段時間之後，你的專案就被push到github。你在github的專案就可以看到網頁程式，**這一頁的url就是作業一，你也就完成第一個作業**。
 
 ![](imgs/git-code.png)
 
@@ -53,10 +53,10 @@ git push -u origin master
 
 ![](imgs/git-code.png)
 
-2）按下Settings之後就會進入設定畫面，往下滑倒GitHub Pages區域，按下select source，把原本的none改選為master branch
+2）按下Settings之後就會進入設定畫面，往下滑到GitHub Pages區域，按下select source，把原本的none改選為master branch
 ![](imgs/github-page-source.png)
 
-3）選定之後按下save，設定頁面就會重刷一次，再度滑倒GitHub Pages區域，你會發現GitHub已經給你的這個Git網頁程式設定了一個超連結，**這個超連結，就是你要繳交的的二個作業**
+3）選定之後按下save，設定頁面就會重刷一次，再度滑到GitHub Pages區域，你會發現GitHub已經給你的這個Git網頁程式設定了一個超連結，**這個超連結，就是你要繳交的的二個作業**
 ![](imgs/github-page-save.png)
 
 4）點選超連結，就可以看到這個靜態網頁已經在GitHub伺服器了
